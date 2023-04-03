@@ -16,4 +16,7 @@ public class Person {
 
         return 10 * name.hashCode() + 20456;
     }
+    private void ff(){
+
+    };
 }
