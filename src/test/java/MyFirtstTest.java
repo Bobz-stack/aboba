@@ -30,6 +30,6 @@ public class MyFirtstTest {
         IntStream.of(50, 60, 70, 80, 90, 100, 110, 120).filter(x -> x < 90).map(x -> x + 10)
                 .limit(3).forEach(System.out::print);
     }
-    @Atta
+//    @Atta
 
 }
